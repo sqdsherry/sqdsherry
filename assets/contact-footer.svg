@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="125" viewBox="0 0 1200 125" role="img" aria-labelledby="title">
+  <title id="title">Have a Unity project or a role in mind? Let's talk.</title>
+  <defs><linearGradient id="g"><stop stop-color="#064e3b"/><stop offset="1" stop-color="#059669"/></linearGradient></defs>
+  <rect x="0" y="15" width="1200" height="105" rx="16" fill="url(#g)"/>
+  <path d="M0 16C230 3 340 33 580 15S1000 7 1200 15" fill="none" stroke="#34d399" stroke-width="3" opacity=".6"/>
+  <g text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#ecfdf5">
+    <text x="600" y="60" font-size="26" font-weight="600">Have a Unity project or a role in mind?</text>
+    <text x="600" y="94" font-size="19" letter-spacing="2">LET'S TALK</text>
+  </g>
+</svg>

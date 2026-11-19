@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title">
+  <title id="title">Timerlan Beleveria - Unity Game Developer</title>
+  <defs>
+    <linearGradient id="emerald" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#064e3b"/><stop offset=".5" stop-color="#059669"/><stop offset="1" stop-color="#10b981"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#a7f3d0" stop-opacity=".25"/><stop offset="1" stop-color="#a7f3d0" stop-opacity="0"/></radialGradient>
+  </defs>
+  <path d="M0 0H1200V225C980 320 785 200 590 256S215 320 0 255Z" fill="#10b981" opacity=".14"/>
+  <path d="M0 0H1200V213C990 300 800 202 600 242S210 303 0 240Z" fill="#059669" opacity=".3"/>
+  <path d="M0 0H1200V203C995 273 805 198 610 228S220 279 0 223Z" fill="url(#emerald)"/>
+  <ellipse cx="920" cy="65" rx="340" ry="220" fill="url(#glow)"/>
+  <g fill="none" stroke="#a7f3d0" stroke-opacity=".16">
+    <circle cx="1080" cy="37" r="125"/><circle cx="1080" cy="37" r="160"/><circle cx="1080" cy="37" r="195"/>
+    <path d="M70 70L105 50L140 70V110L105 130L70 110Z"/><path d="M82 77L105 64L128 77V103L105 116L82 103Z"/>
+  </g>
+  <g text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">
+    <text x="600" y="68" fill="#a7f3d0" font-size="15" font-weight="600" letter-spacing="5">SQDSHERRY / PORTFOLIO</text>
+    <text x="600" y="134" fill="#ffffff" font-size="54" font-weight="700" letter-spacing="-1">Timerlan Beleveria</text>
+    <text x="600" y="181" fill="#e6fff4" font-size="25" font-weight="500" letter-spacing="3">UNITY GAME DEVELOPER</text>
+  </g>
+</svg>

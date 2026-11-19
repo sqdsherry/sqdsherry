@@ -1,79 +1,86 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" width="100%" alt="Timerlan Beleveria - Unity / C# Developer. Gameplay, UI and mobile integrations." />
+  <img src="assets/profile-banner-v2.svg" width="100%" alt="Timerlan Beleveria | Unity Game Developer | Gameplay, UI and mobile apps" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/timerlan-beleveria/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
-  <a href="https://t.me/tmrluvbeer"><img src="https://img.shields.io/badge/Telegram-Message-229ED9?style=for-the-badge" alt="Message on Telegram" /></a>
-  <a href="mailto:timerlanbelevera@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-059669?style=for-the-badge" alt="Email Timerlan" /></a>
+  <a href="https://www.linkedin.com/in/timerlan-beleveria/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://t.me/tmrluvbeer"><img src="https://img.shields.io/badge/Telegram-Message-229ED9?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram" /></a>
+  <a href="mailto:timerlanbelevera@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-059669?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
 </p>
 
-## Unity games & interactive applications
+<h3 align="center">Gameplay systems. Responsive UI. Mobile integrations.</h3>
 
-I'm **Timerlan Beleveria**, a Unity / C# developer with **1.5+ years of commercial experience** in mobile applications and games. My work includes gameplay mechanics, responsive UI, WebView features and SDK integrations.
-
-**Odesa, Ukraine · Remote only · Full-time or part-time around 20 hours / week**
-
-<p>
-  <a href="#selected-projects">Explore projects</a> &nbsp; / &nbsp;
-  <a href="https://youtu.be/9n1WJOhTLrE">Watch gameplay</a> &nbsp; / &nbsp;
-  <a href="mailto:timerlanbelevera@gmail.com">Discuss a role or paid task</a>
+<p align="center">
+  Unity / C# developer with <b>1.5+ years of commercial experience</b><br />
+  building mobile games and interactive applications.<br /><br />
+  <b>Odesa, Ukraine · Remote only</b><br />
+  Open to full-time, part-time around 20 hours / week and individual paid tasks.
 </p>
 
-## Selected projects
+<br />
 
-These are personal portfolio prototypes, separate from my commercial work.
+<h2 align="center">🛠 Tools I work with</h2>
 
-### 01 / Auto Service Tycoon
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,cs,firebase,git,android,rider&amp;theme=dark" height="48" alt="Unity, C#, Firebase, Git, Android and Rider" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Zenject-064E3B?style=flat-square" alt="Zenject" />
+  <img src="https://img.shields.io/badge/FSM-065F46?style=flat-square" alt="State machines" />
+  <img src="https://img.shields.io/badge/ScriptableObjects-047857?style=flat-square" alt="ScriptableObjects" />
+  <img src="https://img.shields.io/badge/UniTask-059669?style=flat-square" alt="UniTask" />
+  <img src="https://img.shields.io/badge/DOTween-10B981?style=flat-square" alt="DOTween" />
+</p>
+<p align="center">
+  <b>Gameplay:</b> Unity 3D / 2D, C#, Input System, object pooling<br />
+  <b>Mobile:</b> uGUI, Safe Area, Firebase, AppsFlyer, OneSignal, WebView<br />
+  <b>Workflow:</b> Git, Unity Profiler, AI-assisted coding tools, Unity MCP
+</p>
 
-**Unity 6 · C# · URP · Gameplay systems**
+<br />
 
-<a href="https://youtu.be/9n1WJOhTLrE"><img src="https://img.youtube.com/vi/9n1WJOhTLrE/hqdefault.jpg" width="640" alt="Auto Service Tycoon gameplay preview - click to watch the video" /></a>
+<h2 align="center">🎮 Selected projects</h2>
+<p align="center">Personal prototypes showcasing my code and gameplay systems.</p>
 
-A 3D idle / management prototype with vehicle queues, service stations, supplies, staff and progression.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🚗 Auto Service Tycoon</h3>
+      <p align="center"><a href="https://youtu.be/9n1WJOhTLrE"><img src="https://img.youtube.com/vi/9n1WJOhTLrE/hqdefault.jpg" width="400" alt="Auto Service Tycoon gameplay - watch on YouTube" /></a></p>
+      <p><b>Unity 6 / C# / URP</b></p>
+      <p>A 3D idle management prototype: vehicle queues, service stations, supplies, staff and progression.</p>
+      <p>✦ Separate domain, services and presentation<br />✦ File saves with temporary writes and backup<br />✦ EditMode tests and in-game debug console</p>
+      <p align="center"><a href="https://youtu.be/9n1WJOhTLrE"><b>▶ Watch demo</b></a> &nbsp; · &nbsp; <a href="https://github.com/sqdsherry/AutoServiceIdleTycoon"><b>Code ↗</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🍳 Cooking Simulation</h3>
+      <p align="center"><a href="https://github.com/sqdsherry/PetProjectCook"><img src="https://raw.githubusercontent.com/sqdsherry/PetProjectCook/main/Gameplay.gif" width="400" alt="Cooking Simulation animated gameplay preview" /></a></p>
+      <p><b>Unity 6 / C# / Zenject</b></p>
+      <p>An Overcooked-like prototype: ingredient processing, cooking stations and an event-driven order UI.</p>
+      <p>✦ Ingredient lifecycle state machines<br />✦ Zenject dependency injection and factories<br />✦ ScriptableObject food and recipe data</p>
+      <p align="center"><a href="https://github.com/sqdsherry/PetProjectCook"><b>Gameplay &amp; code ↗</b></a></p>
+    </td>
+  </tr>
+</table>
 
-- Separate C# domain models, gameplay services and Unity presentation.
-- File-based saves with a temporary-file write and a backup.
-- EditMode tests and an in-game debug console for exploring progression.
+<p align="center">
+  <b>Also in my portfolio:</b> <a href="https://github.com/sqdsherry/WaveSpawner">Wave Spawner ↗</a><br />
+  Configurable enemy waves, object pooling and MVP-based UI.
+</p>
 
-**[Watch gameplay](https://youtu.be/9n1WJOhTLrE) &nbsp; / &nbsp; [Explore the code](https://github.com/sqdsherry/AutoServiceIdleTycoon)**
+<details>
+  <summary><b>About the scope of these projects</b></summary>
+  <p>These are personal portfolio prototypes, separate from my commercial mobile work. They demonstrate implemented systems and code organization, rather than published commercial releases.</p>
+</details>
 
----
+<br />
 
-### 02 / Cooking Simulation
-
-**Unity 6 · C# · Zenject · State machines**
-
-<a href="https://github.com/sqdsherry/PetProjectCook"><img src="https://raw.githubusercontent.com/sqdsherry/PetProjectCook/main/Gameplay.gif" width="640" loading="lazy" alt="Cooking Simulation gameplay: ingredient processing and cooking-station interactions" /></a>
-
-An Overcooked-like prototype with ingredient states, cooking stations and an event-driven order UI. Uses Zenject for dependency injection and factories.
-
-**[Explore the code & gameplay GIF](https://github.com/sqdsherry/PetProjectCook)**
-
----
-
-### 03 / Wave Spawner
-
-**C# · Object pooling · MVP**
-
-A small subsystem demonstrating configurable enemy waves, object pooling and an MVP-based UI.
-
-**[Explore the code](https://github.com/sqdsherry/WaveSpawner)**
-
-## Tools & practices
-
-| Area | Tools I work with |
-| :--- | :--- |
-| Engine & language | Unity 3D / 2D, C# |
-| Gameplay & structure | Zenject, state machines, ScriptableObjects, Input System |
-| UI & async | uGUI, DOTween, UniTask |
-| Mobile integrations | Firebase, AppsFlyer, OneSignal, WebView |
-| Development | Git, Unity Profiler, AI-assisted coding tools, Unity MCP |
-
-I use AI-assisted tools and Unity MCP for prototyping and Editor workflows.
-
-## Let's work together
-
-Open to **remote Unity roles**, part-time collaboration and **paid tasks** involving gameplay, UI, mobile SDK integration or bug fixes.
-
-**[timerlanbelevera@gmail.com](mailto:timerlanbelevera@gmail.com)** &nbsp; / &nbsp; **[Telegram: @tmrluvbeer](https://t.me/tmrluvbeer)** &nbsp; / &nbsp; **[LinkedIn](https://www.linkedin.com/in/timerlan-beleveria/)**
+<p align="center">
+  <img src="assets/contact-footer.svg" width="100%" alt="Have a Unity project or a role in mind? Let's talk." />
+</p>
+<p align="center">
+  Gameplay implementation · UI · SDK integrations · Bug fixes<br /><br />
+  <a href="mailto:timerlanbelevera@gmail.com"><b>timerlanbelevera@gmail.com</b></a><br />
+  <a href="https://t.me/tmrluvbeer">Telegram: @tmrluvbeer</a> &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/timerlan-beleveria/">LinkedIn</a>
+</p>
