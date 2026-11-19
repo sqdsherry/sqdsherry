@@ -22,7 +22,7 @@
 <h2 align="center">🛠 Tools I work with</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,firebase,git,android,rider&amp;theme=dark" height="48" alt="Unity, C#, Firebase, Git, Android and Rider" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,firebase,git,androidstudio,rider&amp;theme=dark" height="48" alt="Unity, C#, Firebase, Git, Android Studio and Rider" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Zenject-064E3B?style=flat-square" alt="Zenject" />
