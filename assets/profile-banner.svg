@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Timerlan Beleveria - Unity / C# Developer</title>
+  <desc id="desc">Gameplay, UI and mobile integrations. Dark banner with emerald geometric accents.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101f23"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#34d399"/><stop offset="1" stop-color="#059669"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1d3837" stroke-width="1"/></pattern>
+  </defs>
+  <rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+  <rect x="740" width="460" height="300" fill="url(#grid)" opacity=".5"/>
+  <path d="M0 294 H1200" stroke="url(#accent)" stroke-width="6"/>
+  <rect x="54" y="49" width="7" height="31" rx="3" fill="#34d399"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="78" y="73" fill="#6ee7b7" font-size="19" font-weight="600" letter-spacing="3">UNITY / C# DEVELOPER</text>
+    <text x="54" y="145" fill="#f0f6fc" font-size="53" font-weight="700" letter-spacing="-1">Timerlan Beleveria</text>
+    <text x="57" y="190" fill="#b3c6c5" font-size="23">Gameplay. UI. Mobile integrations.</text>
+    <text x="57" y="250" fill="#6ee7b7" font-size="17" letter-spacing="2">SQDSHERRY / ODESA, UKRAINE / REMOTE</text>
+  </g>
+  <g fill="none" stroke="#34d399" stroke-width="2">
+    <path d="M995 61 L1090 116 L1090 225 L995 280 L900 225 L900 116 Z" opacity=".22"/>
+    <path d="M995 97 L1059 134 L1059 208 L995 245 L931 208 L931 134 Z" opacity=".6"/>
+    <path d="M931 134 L995 171 L1059 134 M995 171 V245 M995 97 V171" opacity=".6"/>
+  </g>
+  <circle cx="995" cy="171" r="6" fill="#6ee7b7"/>
+</svg>
